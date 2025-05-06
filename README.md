@@ -22,7 +22,7 @@ class Ashish {
 
 ## ✨ Project Showcase
 
-- [Type_dd](https://typedd-editor.vercel.app/) - A online code editor built with Next.js, Tailwind CSS, Clerk, Convex, and Piston API.
+- [Type_dd](https://typedd-editor.vercel.app/) - A online code editor built with Next.js, TailwindCSS, Clerk, Convex, and Piston API.
 - [Horse Forward](https://wrecked-aliens.netlify.app/) - A online game time limitied built with JS, HTML5 context, and OOP concept.
 
 ## ✨ Stuff I'm Making
