@@ -18,7 +18,7 @@ class Ashish {
   }
 }
 ```
-<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwindcss,git,github,neovim&perline=8" width="100%" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwindcss,git,github,neovim,golang&perline=8" width="100%" />
 
 ## ✨ Project Showcase
 
