@@ -1,6 +1,6 @@
 
 
-<img src="https://drive.google.com/file/d/19O-OLVv1fFiZiWpOUeUhLpMCbI3Beb-i/view?usp=sharing" alt='Its me' align='center' width='100%' height='auto'/>
+<img src="./.github/Emotional.png" alt='Its me' align='center' width='100%' height='auto'/>
 
 ## 🌟 About Me
 
@@ -40,5 +40,5 @@ class Ashish {
 
 ## 👀 Thanks for visiting my profile! <4
 
-<img src= "https://drive.google.com/drive/u/0/folders/1Otz5oopnqUgnF7gb3mwUdPZ0LPZGle5E" alt="rust bro" align="right" width="22%" />
+<img src= "./.github/Self-loath.png" alt="rust bro" align="right" width="22%" />
 <img src='https://count.getloli.com/get/@ashish2508?theme=booru-lewd' alt='visitor count' width="72%" />
