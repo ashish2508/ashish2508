@@ -36,7 +36,7 @@ class Ashish {
 </table>
 
 ## 🐍 GitHub Contribution Snake:
-
+![snake gif](https://raw.githubusercontent.com/ashish2508/ashish2508/output/github-contribution-grid-snake-dark.svg)
 
 ## 👀 Thanks for visiting my profile! <4
 
