@@ -24,10 +24,12 @@ class Ashish {
 
 - [Type_dd](https://typedd-editor.vercel.app/) - A online code editor built with Next.js, TailwindCSS, Clerk, Convex, and Piston API.
 - [Horse Forward](https://wrecked-aliens.netlify.app/) - A online game time limitied built with JS, HTML5 context, and OOP concept.
+- [Cloud-drive](https://cldrive.vercel.app/) - A storage available on cloud with authentication, and google doesn't have access to your stored data, used a wrapper made upon s3 to store data.
 
 ## ✨ Stuff I'm Making
 
-- [Cloud drive](https://github.com/ashish2508/Cloud-drive) - A storage available on cloud.
+- [lua theme for my nvim config](https://github.com/ashish2508/PurpleILike) - It will be a theme for my nvim config utilizng a open source template and lazy.nvim to integrate it into my own configuration and others
+
 ## ✨ GitHub Stats
 
 <table>
