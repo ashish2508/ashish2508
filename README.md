@@ -1,6 +1,6 @@
 
 
-<img src="./.github/Emotional.png" alt='Its me' align='center' width='40%' height='100%'/>
+<img src="./.github/Emotional.png" alt='Its me' align='center'/>
 
 ## 🌟 About Me
 
